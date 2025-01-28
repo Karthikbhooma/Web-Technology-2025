@@ -7,4 +7,6 @@ Task 2: https://github.com/Karthikbhooma/Web-Technology-2025/blob/main/Movie%20R
 
 Lab Assignment 2:
 
-Task 1:
+Task 1:https://github.com/Karthikbhooma/Web-Technology-2025/blob/main/Weather.html
+
+Task 2:
