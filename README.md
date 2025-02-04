@@ -10,3 +10,6 @@ Lab Assignment 2:
 Task 1:https://github.com/Karthikbhooma/Web-Technology-2025/blob/main/Weather.html
 
 Task 2:https://github.com/Karthikbhooma/Web-Technology-2025/blob/main/Finance.html
+
+Lab 2-2:https://github.com/Karthikbhooma/Web-Technology-2025/blob/main/student.html
+
